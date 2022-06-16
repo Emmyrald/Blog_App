@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/textfield-django-models/
+https://stackoverflow.com/questions/34548768/django-no-such-table-exception
+https://stackoverflow.com/questions/8250086/command-not-found-django-admin-py
+https://www.geeksforgeeks.org/how-to-use-user-model-in-django/
+https://stackoverflow.com/questions/14663523/foreign-key-django-model
+https://stackoverflow.com/questions/24629705/django-using-get-user-model-vs-settings-auth-user-model
+https://stackoverflow.com/questions/44026548/getting-typeerror-init-missing-1-required-positional-argument-on-delete
+https://stackoverflow.com/questions/59272494/how-to-solve-typeerror-on-delete-must-be-callable-on-django-models
+https://stackoverflow.com/questions/71637166/my-django-admin-page-gives-page-not-found-404
+https://stackoverflow.com/questions/26185687/you-are-trying-to-add-a-non-nullable-field-new-field-to-userprofile-without-a

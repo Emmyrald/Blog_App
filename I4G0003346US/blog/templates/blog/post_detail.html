@@ -1,0 +1,25 @@
+{% extends 'blog/base.html' %}
+
+{% block content %} 
+    <h1 class="Title">{{ post.Title }}</h1>
+    
+    <small>Posted by {{ post.Author}} on {{ post.Published_Date }}</small>
+    
+    <p>{{ post.Text }}</p>
+
+    <hr>
+
+    <h2 class="subtitle">Add comment</h2>
+
+    <form method="post"action=".">
+        {% csrf_token %}
+
+        {{ form.as_p }}
+
+        <div class="field">
+            <div class="control">
+                <button class="button is-success">Submit</button>
+            </div>
+        </div>
+    </form>
+{% endblock %}
